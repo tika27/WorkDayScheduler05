@@ -22,7 +22,7 @@ var planWorkday = [
   { time: "8 AM", event: "" },
   { time: "9 AM", event: "" },
   { time: "10 AM", event: "" },
-  { time: "11 PM", event: "" },
+  { time: "11 AM", event: "" },
   { time: "12 PM", event: "" },
   { time: "1 PM", event: "" },
   { time: "2 PM", event: "" },
