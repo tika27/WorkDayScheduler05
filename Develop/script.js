@@ -1,5 +1,5 @@
 
-// GIVEN make a  daily planner to create a schedule, WHEN I open the planner
+// Make a  daily planner to create a schedule, WHEN I open the planner(watch/go over what on jquery)
 // the current day is displayed at the top of the calendar
 // WHEN I scroll down, 
 // I am presented with time blocks for standard business hours
@@ -41,6 +41,7 @@ if (workEvents) {
 $("#currentDay").text(today);
 
 //rows 
+//(ask tutor/get help)
 planWorkday.forEach(function(timeBlock, index) {
 	var timeLabel = timeBlock.time;
 	var blockColor = colorRow(timeLabel);
